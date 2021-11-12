@@ -28,23 +28,23 @@ User Type:
 -Get contact with social links
 
 Installation:
-Import database bhw.sql (available SQL File Folder inside zip package)
+-Import database bhw.sql (available SQL File Folder inside zip package)
 For Normal User
-Open Your browser put inside browser http://localhost/bangladeshhealthwatch/
-Login Details for user:
-Username : test01@gmail.com
-Password: 123
-Username : test02@gmail.com
-Password: 123
-Username : test03@gmail.com
-Password: 123
+-Open Your browser put inside browser http://localhost/bangladeshhealthwatch/
+-Login Details for user:
+-Username : test01@gmail.com
+-Password: 123
+-Username : test02@gmail.com
+-Password: 123
+-Username : test03@gmail.com
+-Password: 123
 
-For Admin Panel
-Open Your browser put inside browser http://localhost/bangladeshhealthwatch/admin
-Login Details for admin :
-Username: admin
-Password: Test@12345
-There are some screenshots in Screenshorts to understand the process.
+-For Admin Panel
+-Open Your browser put inside browser http://localhost/bangladeshhealthwatch/admin
+-Login Details for admin :
+-Username: admin
+-Password: Test@12345
+-There are some screenshots in Screenshorts to understand the process.
 ------------- Thank You ----------------------
 Regard,
 Khandaker Maria Shabnam 
