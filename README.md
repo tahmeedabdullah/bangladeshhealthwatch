@@ -1,4 +1,5 @@
-# bangladeshhealthwatch 
+# Project Details and installation Processes: 
+About Project: 
 This project is based on an assigned task. And the task is create authentication system (Registration, Login, Reset and forget password, User Dashboard)
 Resources and Languages used: 
 -XAMPP Server 5.1.1
@@ -25,8 +26,9 @@ User Type:
 -  Ask FAQ or contact with designated people
 - Can subscribe through email 
 -Get contact with social links
+
 Installation:
-Import database carrental.sql (available SQL File Folder inside zip package)
+Import database bhw.sql (available SQL File Folder inside zip package)
 For Normal User
 Open Your browser put inside browser http://localhost/bangladeshhealthwatch/
 Login Details for user:
@@ -42,4 +44,8 @@ Open Your browser put inside browser http://localhost/bangladeshhealthwatch/admi
 Login Details for admin :
 Username: admin
 Password: Test@12345
+There are some screenshots in Screenshorts to understand the process.
+------------- Thank You ----------------------
+Regard,
+Khandaker Maria Shabnam 
 
