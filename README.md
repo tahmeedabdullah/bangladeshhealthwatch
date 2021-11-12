@@ -1,7 +1,7 @@
 # Project Details and installation Processes: 
 About Project: 
 This project is based on an assigned task. And the task is create authentication system (Registration, Login, Reset and forget password, User Dashboard)
-Resources and Languages used: 
+1.Resources and Languages used: 
 -XAMPP Server 5.1.1
 -MySql
 -PHP 7.4.25
