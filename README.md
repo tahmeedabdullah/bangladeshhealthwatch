@@ -26,7 +26,7 @@ User Type:
 -  Ask FAQ or contact with designated people
 - Can subscribe through email 
 -Get contact with social links
-
+-----------------------------------------------------------------------------------------
 Installation:
 -Import database bhw.sql (available SQL File Folder inside zip package)
 For Normal User
@@ -47,7 +47,7 @@ For Normal User
 -There are some screenshots in Screenshorts to understand the process.
 
 
-------------- Thank You ----------------------
+
 Regard,
 Khandaker Maria Shabnam 
 
