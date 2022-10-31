@@ -50,5 +50,5 @@ For Normal User
 
 Regard,
 Khandaker Maria Shabnam 
-Iqbal Khan
+
 
