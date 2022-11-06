@@ -1,0 +1,31 @@
+version: '3.7'
+services:
+  backend:
+    image: mysql:latest
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: Time@12345
+      MYSQL_ROOT_HOST: '%'
+    volumes:
+      - db-data:/var/lib/mysql
+    restart: unless-stopped
+  phpmyadmin:
+    image: phpmyadmin:latest
+    ports:
+      - 3000:80
+    environment:
+      PMA_HOST: backend
+    restart: unless-stopped
+  frontend:
+    image: php-app:latest
+    ports:
+      - 5000:80
+    build:
+      context: .
+      dockerfile: "Dockerfile"
+    depends_on: 
+      - backend
+volumes:
+  db-data:
+
