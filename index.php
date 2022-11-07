@@ -65,7 +65,7 @@ error_reporting(0);
 <section class="section-padding gray-bg">
   <div class="container">
     <div class="section-header text-center">
-	<h3 style="color:#015cae">BANGLADESH HEALTH WATCH</h3>
+	<h3 style="color:#015cae">BANGLADESH HEALTH WATCH CHANGES </h3>
 	
       <p align="left ">
 		  BHW was established in 2006 by a group of concerned citizens and experts 
